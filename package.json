@@ -1,0 +1,24 @@
+{
+  "name": "@marliannesadoway/cmpt-315-assignment-2",
+  "version": "1.0.0",
+  "description": "This is a basic JavaScript library that provides some functions to manipulate arrays and objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "marliannesadoway"
+  },
+  "keywords": [
+    "NaN",
+    "FactorChain",
+    "participants",
+    "biggestLoser",
+    "winnersObject",
+    "numberOfArrays",
+    "CMPT315"
+  ],
+  "author": "MarlianneSadoway",
+  "license": "ISC"
+}
